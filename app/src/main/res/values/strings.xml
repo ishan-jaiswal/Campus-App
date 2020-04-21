@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Campus App</string>
+    <string name="free_red_bus">Free Red Bus</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="free_shuttle">Free Shuttle</string>
+    <string name="paid">Paid</string>
+    <string name="biometric_failed">Fingerprint not recognized</string>
+    <string name="btn_authenticate">Login</string>
+
+    <string name="biometric_title">Login</string>
+    <string name="biometric_subtitle">Login to your account</string>
+    <string name="biometric_description">Place your finger on the device home button to verify your identity</string>
+    <string name="biometric_negative_button_text">CANCEL</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="biometric_error_sdk_not_supported">Sdk version not supported</string>
+    <string name="biometric_error_hardware_not_supported">Device does not support biometric authentication</string>
+    <string name="biometric_error_fingerprint_not_available">Fingerprint is not registered in device</string>
+    <string name="biometric_error_permission_not_granted">Permission is not granted by user</string>
+    <string name="biometric_failure">Login not successful!</string>
+    <string name="biometric_cancelled">Authentication cancelled by user</string>
+    <string name="biometric_success">Login Successful</string>
+
+</resources>
